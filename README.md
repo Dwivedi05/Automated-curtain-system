@@ -28,11 +28,13 @@ Internet Connection
 Optional Sensors or Devices
 
 ## Arduino Libraries
-Arduino IDE
-Servo Library
-IRremote Library
-WiFiNINA Library
-Ethernet Library
+* Arduino IDE
+* Servo Library
+* IRremote Library
+* WiFiNINA Library
+* Ethernet Library
+
+
 ## How This Project Work
 #### Voice Control Integration:
 Users can give voice commands to control the curtains using compatible virtual assistants like Amazon Alexa or Google Assistant.
@@ -53,4 +55,5 @@ Upon detecting unauthorized movement, the motion sensors trigger an alarm, promp
 Users interact with the system by giving voice commands, using the smartphone app, or manually controlling the curtains with an IR remote control.
 The system provides feedback to users, confirming that commands have been received and executed successfully.
 
-
+## Conclusion
+The "Automated Curtain System Using IoT" project integrates IoT technology with Arduino-powered automation, offering enhanced home security and convenient remote control. With features like voice command capability, customizable settings, and energy-efficient scheduling, it provides a user-friendly interface and potential for future expansion through open-source collaboration.
